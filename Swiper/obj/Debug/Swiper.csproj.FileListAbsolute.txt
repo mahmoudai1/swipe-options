@@ -1,0 +1,29 @@
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\obj\Debug\Swiper.Form1.resources
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\obj\Debug\Swiper.Properties.Resources.resources
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\obj\Debug\Swiper.csproj.GenerateResource.cache
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\obj\Debug\Swiper.csproj.CoreCompileInputs.cache
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\bin\Debug\Swiper.exe.config
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\bin\Debug\Swiper.exe
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\bin\Debug\Swiper.pdb
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\obj\Debug\Swiper.exe
+Z:\Semester 4\CS232 Multimedia\Scrollable Mail\Dismissible\Dismissible\obj\Debug\Swiper.pdb
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\bin\Debug\Swiper.exe.config
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\bin\Debug\Swiper.exe
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\bin\Debug\Swiper.pdb
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.csprojAssemblyReference.cache
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.Form1.resources
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.Properties.Resources.resources
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.csproj.GenerateResource.cache
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.csproj.CoreCompileInputs.cache
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.exe
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Dismissible\obj\Debug\Swiper.pdb
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\bin\Debug\Swiper.exe.config
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\bin\Debug\Swiper.exe
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\bin\Debug\Swiper.pdb
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.csprojAssemblyReference.cache
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.Form1.resources
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.Properties.Resources.resources
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.csproj.GenerateResource.cache
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.csproj.CoreCompileInputs.cache
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.exe
+Z:\Semester 4\CS232 Multimedia\Swiper\Swiper\Swiper\obj\Debug\Swiper.pdb

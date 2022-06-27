@@ -1,0 +1,10 @@
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\bin\Debug\Dismissible.exe.config
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\bin\Debug\Dismissible.exe
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\bin\Debug\Dismissible.pdb
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.Form1.resources
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.Properties.Resources.resources
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.csproj.GenerateResource.cache
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.exe
+C:\Users\mahmoud\source\repos\Dismissible\Dismissible\obj\Debug\Dismissible.pdb
