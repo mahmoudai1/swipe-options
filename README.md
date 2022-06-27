@@ -1,5 +1,5 @@
 # Swipe Options
-A C# Graphics Implementation of the swipe options concept.
+A C# Graphics implementation of the swipe options concept.
 
 **Demo**
 --
